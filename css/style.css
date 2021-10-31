@@ -803,6 +803,9 @@ footer .footer-add .info {
     font-size: 34px;
     font-weight: 700;
   }
+  .s7 .container .block .form {
+    margin: 0 50px;
+  }
   .s7 .container .block form {
     height: auto;
     width: 100%;
